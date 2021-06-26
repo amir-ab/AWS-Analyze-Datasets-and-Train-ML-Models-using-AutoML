@@ -11,3 +11,4 @@ In this assignment you will register and visualize the dataset.
 6.	Return the query results in a pandas dataframe
 7.	Produce and select different plots and visualizations that address your questions
 
+![avg_sentiment_per_category](https://user-images.githubusercontent.com/22645525/123512685-c5f11080-d680-11eb-9910-bbbb6f94a2dc.png)
