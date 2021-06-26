@@ -12,3 +12,10 @@ In this assignment you will register and visualize the dataset.
 7.	Produce and select different plots and visualizations that address your questions
 
 ![avg_sentiment_per_category](https://user-images.githubusercontent.com/22645525/123512685-c5f11080-d680-11eb-9910-bbbb6f94a2dc.png)
+
+![distribution_num_words_per_review](https://user-images.githubusercontent.com/22645525/123512706-e620cf80-d680-11eb-938e-7c0f14e87898.png)
+
+![num_reviews_per_category](https://user-images.githubusercontent.com/22645525/123512714-ecaf4700-d680-11eb-88af-e7416317e0e3.png)
+
+![distribution_sentiment_per_category](https://user-images.githubusercontent.com/22645525/123512719-f173fb00-d680-11eb-8dc8-bbeeb560bea8.png)
+
