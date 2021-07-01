@@ -56,37 +56,33 @@ In this assignment I am going to train a text classifier using Amazon SageMaker 
 
 Course 1 Optional References
 ________________________________________
-If you wish to dive more deeply into the topics covered this week, feel free to check out these optional references.
+If you wish to dive more deeply into the topics covered this week, feel free to check out these optional references. 
 
-Week 1 Explore the Use Case and Analyze the Dataset:
-•	AWS Data Wrangler
-•	AWS Glue 
-•	Amazon Athena 
-•	Matplotlib 
-•	Seaborn 
-•	Pandas
-•	Numpy 
+## Week 1 Explore the Use Case and Analyze the Dataset:
+1.	AWS Data Wrangler
+2.	AWS Glue 
+3.	Amazon Athena 
+4.	Matplotlib 
+5.	Seaborn 
+6.	Pandas
+7.	Numpy 
 
-Week 2 Data Bias and Feature Importance:
-•	Measure Pretraining Bias - Amazon SageMaker
-•	SHAP
+## Week 2 Data Bias and Feature Importance:
+1.	Measure Pretraining Bias - Amazon SageMaker
+2.	SHAP
 
-Week 3 Automated Machine Learning:
-•	Amazon SageMaker Autopilot
+## Week 3 Automated Machine Learning:
+1.	Amazon SageMaker Autopilot
 
-Week 4 Built-in algorithms:
-•	Word2Vec algorithmc 
-•	GloVe algorithm 
-•	FastText algorithm 
-•	Transformer architecture, "Attention Is All You Need" 
-•	BlazingText algorithm
-•	ELMo algorithm 
-•	GPT model architecture 
-•	BERT model architecture 
-•	Built-in algorithms
-•	Amazon SageMaker BlazingText 
-
-
-
-
+## Week 4 Built-in algorithms:
+1.	Word2Vec algorithm
+2.	GloVe algorithm 
+3.	FastText algorithm 
+4.	Transformer architecture, "Attention Is All You Need" 
+5.	BlazingText algorithm
+6.	ELMo algorithm 
+7.	GPT model architecture 
+8.	BERT model architecture 
+9.	Built-in algorithms
+10.	Amazon SageMaker BlazingText 
 
