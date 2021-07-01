@@ -20,3 +20,38 @@ In this assignment you will register and visualize the dataset.
 
 ![distribution_sentiment_per_category](https://user-images.githubusercontent.com/22645525/123512719-f173fb00-d680-11eb-8dc8-bbeeb560bea8.png)
 
+## Week 2 :
+
+In this assignment I am going to will detect data bias with Amazon SageMaker Clarify
+
+1.	Download and save raw unbalanced dataset
+2.	Analyze bias with open source Clarify
+3.	Balance the dataset
+4.	Analyze bias at scale with a Amazon SageMaker processing job and Clarify
+5.	Analyze bias reports before and after balancing the dataset
+
+## Week 3 :
+
+In this assignment, I am going to train a text classification model using Amazon SageMaker Autopilot. The lab will include the following sections:
+
+1.	Dataset review
+2.	Configure the Autopilot job
+3.	Launch Autopilot job
+4.	Track Autopilot job progress
+5.	Feature engineering
+6.	Model training and tuning
+7.	Review all output
+8.	Deploy and test best candidate model
+
+
+## Week 4 :
+
+In this assignment I am going to train a text classifier using Amazon SageMaker BlazingText built-in algorithm. 
+
+1.	Prepare dataset
+2.	Train the model with Amazon SageMaker BlazingText
+3.	Deploy the model
+4.	Test the model
+
+
+
