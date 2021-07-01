@@ -1,4 +1,4 @@
-# Analyze-Datasets-and-Train-ML-Models-using-AutoML
+# AWS-Analyze-Datasets-and-Train-ML-Models-using-AutoML
 Analyze Datasets and Train ML Models using AutoML by DeepLearning.AI &amp; Amazon Web Services
 
 ## Week 1:
@@ -52,6 +52,35 @@ In this assignment I am going to train a text classifier using Amazon SageMaker 
 2.	Train the model with Amazon SageMaker BlazingText
 3.	Deploy the model
 4.	Test the model
+
+
+Course 1 Optional References
+________________________________________
+If you wish to dive more deeply into the topics covered this week, feel free to check out these optional references. (You won’t have to read these to complete this week’s practice quizzes.)
+Week 1 Explore the Use Case and Analyze the Dataset:
+•	AWS Data Wrangler
+•	AWS Glue 
+•	Amazon Athena 
+•	Matplotlib 
+•	Seaborn 
+•	Pandas
+•	Numpy 
+Week 2 Data Bias and Feature Importance:
+•	Measure Pretraining Bias - Amazon SageMaker
+•	SHAP
+Week 3 Automated Machine Learning:
+•	Amazon SageMaker Autopilot
+Week 4 Built-in algorithms:
+•	Word2Vec algorithm
+•	GloVe algorithm 
+•	FastText algorithm 
+•	Transformer architecture, "Attention Is All You Need" 
+•	BlazingText algorithm
+•	ELMo algorithm 
+•	GPT model architecture 
+•	BERT model architecture 
+•	Built-in algorithms
+•	Amazon SageMaker BlazingText 
 
 
 
